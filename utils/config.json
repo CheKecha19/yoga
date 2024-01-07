@@ -3,7 +3,7 @@
         "mode": "tasks",
         "invite_codes": [],
         "taskDelay": [1,2],
-        "threads_count": 3,
+        "threads_count": 1,
         "capmonster_key": ""
     }
 }
